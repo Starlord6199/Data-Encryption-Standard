@@ -1,10 +1,10 @@
 # Data-Encryption-Standard
 DES algorithm implemented in python as a part of my Internet Security Course
-# Input 
+## Input 
 It take a 64-bit PlainText(Implemented as random input)
-# Output
+## Output
 It outputs 64-bit CipherText
-# Dependencies
+## Dependencies
 Python
-# Instructions
+## Instructions
 Just run the Python Script
